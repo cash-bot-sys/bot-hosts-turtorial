@@ -49,6 +49,6 @@ async def main():
     # Start web server
     asyncio.create_task(start_web_server())
     # Start bot
-    await bot.start(BOT_TOKEN)
+    await bot.start(MTM5OTQyOTM2NjExODg3NTI2OA.GZ76tM.TLkRW6dMz0qmjA1KyawSjcITbUwoeMgWhgb8fA)
 
 asyncio.run(main())
